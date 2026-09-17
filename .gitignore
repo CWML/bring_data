@@ -1,0 +1,11 @@
+# Raw unfiltered Synthea output — too large for GitHub
+synth_50k_CT/
+raw_data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
